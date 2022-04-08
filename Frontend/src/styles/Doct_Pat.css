@@ -1,0 +1,16 @@
+.doc {
+    background: url("http://www.123rf.com/apicore/storage/s3/7ae4be44ace8ef41f520f354c993ec1f.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: aliceblue;
+}
+
+
+.pat {
+    background: url("http://www.123rf.com/apicore/storage/s3/07bcad824a1b934bae488ef06367f16f.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: aliceblue;
+  }
